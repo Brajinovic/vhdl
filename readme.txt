@@ -25,5 +25,3 @@ Beware, when you convert it to binary, the zeros(0) from the beggining of the bi
 That binary combination becomes the binComb input for the driver.
 
 The code was written for the circuit located in the following pdf: https://repozitorij.etfos.hr/islandora/object/etfos%3A1341/datastream/PDF/view
-
-I will upload my main vhdl project file so that you can figure it out yourself.
